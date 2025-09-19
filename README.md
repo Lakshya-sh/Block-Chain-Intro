@@ -1,6 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18a51165-d37a-4ecf-bbc7-b0b842bfd93c" /># The Energy Equation: Sustainable Consensus Mechanisms for Tomorrow's Blockchain
 
-## 📌 Project Description
 This project explores sustainable blockchain consensus mechanisms. A smart contract enables voting on different consensus methods, with a simple frontend UI for user interaction.
 
 ## 🌍 Project Vision
