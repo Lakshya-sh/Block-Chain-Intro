@@ -1,1 +1,26 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blockchain Energy Equation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>The Energy Equation</h1>
+  <h3>Sustainable Consensus Mechanisms</h3>
+
+  <div>
+    <button onclick="vote('Proof of Stake')">Vote Proof of Stake</button>
+    <button onclick="vote('Proof of Authority')">Vote Proof of Authority</button>
+    <button onclick="vote('Proof of Green')">Vote Proof of Green</button>
+  </div>
+
+  <h2>Results</h2>
+  <p>Proof of Stake: <span id="pos">0</span></p>
+  <p>Proof of Authority: <span id="poa">0</span></p>
+  <p>Proof of Green: <span id="pog">0</span></p>
+
+  <script src="https://cdn.jsdelivr.net/npm/ethers/dist/ethers.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
